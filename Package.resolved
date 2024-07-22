@@ -108,6 +108,15 @@
           "revision": "075344faec47dadba98bef6a319e310c98be0820",
           "version": "0.2.1"
         }
+      },
+      {
+        "package": "Web3swift",
+        "repositoryURL": "https://github.com/web3swift-team/web3swift",
+        "state": {
+          "branch": "develop",
+          "revision": "710451bf2ad6aa5901d041dad1a8aced6eb0042d",
+          "version": null
+        }
       }
     ]
   },
