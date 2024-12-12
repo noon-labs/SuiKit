@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "SuiKit",
-    platforms: [.iOS(.v13), .macOS(.v11), .watchOS(.v7), .tvOS(.v13)],
+    platforms: [.iOS(.v14), .macOS(.v11), .watchOS(.v7), .tvOS(.v13)],
     products: [
         .library(
             name: "SuiKit",
