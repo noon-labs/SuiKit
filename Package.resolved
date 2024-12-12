@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/attaswift/BigInt.git",
         "state": {
           "branch": null,
-          "revision": "793a7fac0bfc318e85994bf6900652e827aef33e",
-          "version": "5.4.1"
+          "revision": "0ed110f7555c34ff468e72e1686e59721f2b0da6",
+          "version": "5.3.0"
         }
       },
       {
@@ -51,8 +51,8 @@
         "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift.git",
         "state": {
           "branch": null,
-          "revision": "c9c3df6ab812de32bae61fc0cd1bf6d45170ebf0",
-          "version": "1.8.2"
+          "revision": "039f56c5d7960f277087a0be51f5eb04ed0ec073",
+          "version": "1.5.1"
         }
       },
       {
@@ -113,9 +113,9 @@
         "package": "Web3swift",
         "repositoryURL": "https://github.com/web3swift-team/web3swift",
         "state": {
-          "branch": "develop",
-          "revision": "710451bf2ad6aa5901d041dad1a8aced6eb0042d",
-          "version": null
+          "branch": null,
+          "revision": "8a026108ae5ff730ac83e9b574c8cf1c14413c94",
+          "version": "3.2.2"
         }
       }
     ]
