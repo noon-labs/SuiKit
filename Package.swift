@@ -21,7 +21,7 @@ let package = Package(
         .package(url: "https://github.com/auth0/JWTDecode.swift", from: "3.1.0"),
         .package(url: "https://github.com/apollographql/apollo-ios.git", .upToNextMajor(from: "1.0.0")),
         .package(url: "https://github.com/attaswift/BigInt.git", from: "5.3.0"),
-        .package(url: "https://github.com/web3swift-team/web3swift", .upToNextMajor(from: "3.2.2"))
+        .package(url: "https://github.com/web3swift-team/web3swift", .exactItem("3.2.1"))
     ],
     targets: [
         .target(
