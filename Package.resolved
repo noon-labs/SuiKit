@@ -114,8 +114,8 @@
         "repositoryURL": "https://github.com/web3swift-team/web3swift",
         "state": {
           "branch": null,
-          "revision": "60a56e3b9c4cd0568d84acde27af2f25d2a8ff4d",
-          "version": "3.2.1"
+          "revision": "8a026108ae5ff730ac83e9b574c8cf1c14413c94",
+          "version": "3.2.2"
         }
       }
     ]
